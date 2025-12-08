@@ -19,23 +19,25 @@
 - 📚 I'm currently expanding my knowledge throughout my undergraduate studies, exploring languagens like C++, JavaScript, Java and other.
 
 
-## Languages
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
 - 🎯 The main languages I've worked with so far are C++, CSS, HTML, Python, Java and JavaScript.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bia-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Bia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bia-PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+
+
+##
+
+<div align="center">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake-dark.svg">
+       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake.svg">
+       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake.svg">
+     </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beatrizsouto3/beatrizsouto3/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 
 <br>
