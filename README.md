@@ -40,6 +40,8 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg??style=for-the-badge&logo=php&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128.svg??style=for-the-badge&logo=apache&logoColor=white)
 
 ##
 
