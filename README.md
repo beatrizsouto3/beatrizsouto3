@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsouto3&layout=compact&font=Iosevka&langs_count=16&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizsouto3&theme=dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizsouto3&theme=dark" height="180"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizsouto3&theme=dark"/>
