@@ -9,7 +9,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizsouto3&theme=dark" height="180"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizsouto3&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizsouto3&theme=dark" width="800"/>
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizsouto3&theme=dark" height="165"/>
