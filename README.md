@@ -44,14 +44,14 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg??style=for-the-badge&logo=php&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128.svg??style=for-the-badge&logo=apache&logoColor=white)
-  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg??style=for-the-badge&logo=phpmyadmin&logoColor=white)
-  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg??style=for-the-badge&logo=filezilla&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg??style=for-the-badge&logo=ruby&logoColor=white)
-  ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg??style=for-the-badge&logo=rubyonrails&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg??style=for-the-badge&logo=docker&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ##
 
