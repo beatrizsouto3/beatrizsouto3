@@ -51,6 +51,7 @@
   ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg??style=for-the-badge&logo=filezilla&logoColor=white)
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg??style=for-the-badge&logo=ruby&logoColor=white)
   ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg??style=for-the-badge&logo=rubyonrails&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg??style=for-the-badge&logo=docker&logoColor=white)
 
 ##
 
