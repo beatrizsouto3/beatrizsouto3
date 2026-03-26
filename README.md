@@ -26,9 +26,9 @@
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
   
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizsouto-dev/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bia.souto__)
-[![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absouto.silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004088?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizsouto-dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bia.souto__)
+[![E-mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:absouto.silva@gmail.com)
 
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
@@ -44,14 +44,14 @@
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-  ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=flat&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat&logo=apache&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=flat&logo=phpmyadmin&logoColor=white)
+  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=flat&logo=filezilla&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=ruby&logoColor=white)
+  ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg?style=flat&logo=rubyonrails&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 
 ##
 
