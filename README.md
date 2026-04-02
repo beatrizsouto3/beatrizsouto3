@@ -26,32 +26,18 @@
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004088?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizsouto-dev/) 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bia.souto__)
-[![E-mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:absouto.silva@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/beatrizsouto-dev/)
+[![Insatagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/bia.souto__)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:absouto.silva@gmail.com://gmail.com)
 
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
 - 🎯 Main languages ​​and functionalities I have worked with so far: <br/> <br/>
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-E50914?style=flat&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat&logo=apache&logoColor=white)
-  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=flat&logo=phpmyadmin&logoColor=white)
-  ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=flat&logo=filezilla&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=ruby&logoColor=white)
-  ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001.svg?style=flat&logo=rubyonrails&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,ruby,rails,python,java,spring,cpp,bootstrap,html,css,js,nodejs,postgres,php,ts&theme=dark" />
+  </a>
+</p>
 
 ##
 
