@@ -29,6 +29,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/beatrizsouto-dev/)
 [![Insatagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/bia.souto__)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:absouto.silva@gmail.com://gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1338168965008064623)
 
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
