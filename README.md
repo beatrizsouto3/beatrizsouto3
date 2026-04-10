@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/beatrizsouto-dev/)
 [![Insatagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/bia.souto__)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://is.gd/XoVJII)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/?view=cm&fs=1&to=absouto.silva@gmail.com&su=Contato%20via%20GitHub)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1338168965008064623)
 
 
