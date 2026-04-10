@@ -59,3 +59,9 @@
 <a href="https://github.com/beatrizsouto3" target="_blank">
   <img align="left" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
+
+ <br>
+ <br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=beatrizsouto3&label=Profile%20views&color=7ed957&style=background:#3630a3;color:white;" alt="beatrizsouto3" /> </p>
+  
+ <br>
