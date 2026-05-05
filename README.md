@@ -12,7 +12,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizsouto3&theme=dark" width="800"/>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizsouto3&theme=dark" height="165"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=beatrizsouto3&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 
