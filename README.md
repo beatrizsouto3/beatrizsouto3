@@ -27,7 +27,7 @@
 Do you want to see my projects and learn more about my work? Feel free to visit my personal website!
 
 <div align="left">
-  <a href="[URL_DO_SEU_NETLIFY_AQUI](https://beatrizsouto.netlify.app/)" target="_blank">
+  <a href="https://beatrizsouto.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-04c604?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
