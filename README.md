@@ -18,9 +18,20 @@
 
 
 ## About Me 🌐
-🎓 Academic Background
-- 💻 I'm a Systems Analysis and Development student at UFRN/EAJ.
-- 📚 I'm currently expanding my knowledge throughout my undergraduate studies, exploring languagens like C++, JavaScript, Java and other.
+- 🎓 I'm a **Systems Analysis and Development** student at UFRN/EAJ.
+- 🚀 Currently acting as the **Vice-Director at ByteCode**, a student-run junior enterprise.
+- 🔬 Developing software management systems and database models for research projects (LAPEC/EAJ).
+- 💻 Currently, my focus in development is on **Ruby** and **Ruby on Rails**.
+
+## 📂 My Portfolio
+Do you want to see my projects and learn more about my work? Feel free to visit my personal website!
+
+<div align="left">
+  <a href="[URL_DO_SEU_NETLIFY_AQUI](https://beatrizsouto.netlify.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-04c604?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+<br>
 
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
