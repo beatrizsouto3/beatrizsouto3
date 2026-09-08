@@ -4,6 +4,11 @@
 </a>
 </div>
 
+ <br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=beatrizsouto3&label=Profile%20views&color=7ed957&style=background:#3630a3;color:white;" alt="beatrizsouto3" /> </p>
+  
+ <br>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizsouto3&theme=dark" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizsouto3&theme=dark" height="180"/>
@@ -71,8 +76,4 @@ Do you want to see my projects and learn more about my work? Feel free to visit 
   <img align="left" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
 
- <br>
- <br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=beatrizsouto3&label=Profile%20views&color=7ed957&style=background:#3630a3;color:white;" alt="beatrizsouto3" /> </p>
-  
  <br>
