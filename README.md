@@ -11,13 +11,11 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizsouto3&theme=dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizsouto3&theme=dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizsouto3&theme=dark" height="180"/>
   <br>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizsouto3&theme=dark" width="800"/>
   <br>
-  <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=beatrizsouto3&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 
@@ -26,7 +24,7 @@
 - 🎓 I'm a **Systems Analysis and Development** student at UFRN/EAJ.
 - 🚀 Currently acting as the **Vice-Director at ByteCode**, a student-run junior enterprise.
 - 🔬 Developing software management systems and database models for research projects (LAPEC/EAJ).
-- 💻 Currently, my focus in development is on **Ruby** and **Ruby on Rails**.
+- 💻 My focus is on web development, currently with an emphasis on **Ruby** and **Ruby on Rails**.
 
 ## 📂 My Portfolio
 Do you want to see my projects and learn more about my work? Feel free to visit my personal website!
